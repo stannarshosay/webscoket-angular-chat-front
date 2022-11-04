@@ -1,0 +1,7 @@
+.recieved-msg {
+    align-self: flex-end;
+}
+
+.send-msg {
+    align-self: flex-start;
+}
